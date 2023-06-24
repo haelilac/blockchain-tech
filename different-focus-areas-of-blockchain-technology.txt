@@ -1,0 +1,12 @@
+Different focus areas/Application areas of Blockchain technology
+
+Healthcare: blockchain can be used to securely store and share medical records, ensuring that patient data is protected and easily accessible to healthcare providers. The blockchain can be used to track the movement of pharmaceuticals and medical devices, ensuring that they are authentic and have not been tampered with.
+
+Real estate: Blockchain technology can be applied to the real estate sector to develop a secure and transparent system for property transactions. The danger of fraud and mistakes in real estate transactions can be decreased using blockchain technology by storing and verifying property records on a decentralized ledger.
+
+Insurance: Using smart contracts on a blockchain can provide greater transparency for customers and insurance providers. Recording all claims on a blockchain would keep customers from making duplicate claims for the same event. Furthermore, using smart contracts can speed up the process for claimants to receive payments.
+
+Voting: A safe and transparent system for registering and tallying votes can be created using blockchain in voting systems. This can reduce voter fraud and boost public confidence in the political process.
+
+Supply chain management: Blockchain can be used to track the movement of goods, ensuring that products are authentic and have not been tampered with. The blockchain can also be used to create a transparent and secure system for tracking the ownership of goods, from raw materials to finished products.
+
